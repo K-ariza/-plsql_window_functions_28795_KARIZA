@@ -1,1 +1,0 @@
-# -plsql_window_functions_28795_KARIZA-PATIENCE
